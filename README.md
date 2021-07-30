@@ -25,5 +25,3 @@ El respositorio está ordenado de la siguiente manera: la carpeta "Código", con
  09_Hospitalizaciones: Contiene la serie de tiempo de las hospitalizaciones por día en la Ciudad de México.
 
  10_Vacunación: Contiene un mapa didáctico que muestra el avance de la estrategia nacional de vacunación. 
-
-El código usado es adaptado del código usado por @SEGASI y con agregaciones propias para usos y fines particulares. Gracias a la comunidad de R que hacen posible que más personas puedan acceder a estas nuevas formas de conocimiento, y podamos extender el uso de nuevas herramientas de análisis de datos. 
